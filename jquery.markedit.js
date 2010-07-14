@@ -1154,6 +1154,7 @@
                             range.moveStart('character', start);
                             range.select();
                         }
+                        input.focus();
                     }
                 });
 
